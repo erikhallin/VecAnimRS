@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537865047 source:e:\cpp\vecanimrs\main.cpp
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<windows.h>
+	<gl/gl.h>
+

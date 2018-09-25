@@ -1,0 +1,6 @@
+scale 100 100
+
+line 1
+col 1 1 0
+dot 0 0 0
+dot 10 1 1
